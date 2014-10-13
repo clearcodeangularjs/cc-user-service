@@ -114,5 +114,5 @@
         this._save();
     }
 
-    angular.module('cc.user.service').service('userServ', UserServ);
+    angular.module('cc.user.service', []).service('userServ', UserServ);
 })();
