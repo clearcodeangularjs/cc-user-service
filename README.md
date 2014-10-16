@@ -4,7 +4,7 @@ Clearcode User Service
 Service for providing user data, storing them on localStorage.
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-user-service --save ```
 
 
 Usage
